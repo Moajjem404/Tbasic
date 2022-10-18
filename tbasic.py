@@ -109,7 +109,7 @@ elif mo == '2':
   ''')
   m = input('Enter To Continue ')
   if m == '':
-    os.system('python2 tbasic.py')
+    os.system('python tbasic.py')
   
 elif mo == '3':
   os.system('xdg-open https://www.facebook.com/Md.Moajjem.Hossen.4O4')
