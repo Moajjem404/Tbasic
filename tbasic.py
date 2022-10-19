@@ -68,6 +68,7 @@ if mo == '1':
   os.system('xdg-open https://www.facebook.com/Md.Moajjem.Hossen.4O4')
   os.system('clear')
   print(logo2)
+  print('All Basic Pkg Install successful\n')
   input('\nPress the enter key to exit ')
   
 elif mo == '2':
